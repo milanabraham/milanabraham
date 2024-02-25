@@ -7,9 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 
-- 🌱 I’m currently learning **React js , MongoDB**
+- 🌱 I’m currently learning **Djnago , Python**
 
-- 🤝 I’m currently doing my mini-project [Annual Maintenance Contract](https://github.com/milanabraham/AMC-ANNUAL-MAINTENANCE-CONTRACT-.git)
+- 🤝 I’m currently doing my main-project [Social Media PLatform]
+
+- 🤝 Developed [Annual Maintenance Contract](https://github.com/milanabraham/AMC-ANNUAL-MAINTENANCE-CONTRACT-.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/milanabraham](https://github.com/milanabraham)
 
