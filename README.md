@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 
-- 🌱 I’m currently learning **Djnago , Python**
+- 🌱 I’m currently learning **Python , Djnago**
 
 - 🤝 I’m currently doing my main-project [Social Media PLatform]
 
