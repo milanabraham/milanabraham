@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python , Djnago**
 
-- 🤝 Developed [Social Media PLatform](https://github.com/milanabraham/social-media-platform)
+- 🤝 Developed [Social Media Platform](https://github.com/milanabraham/social-media-platform)
 
 - 🤝 Developed [Annual Maintenance Contract](https://github.com/milanabraham/AMC-ANNUAL-MAINTENANCE-CONTRACT-.git)
 
