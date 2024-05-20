@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 
-- 🌱 I’m currently learning **Python , Djnago**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 🤝 Developed [Social Media Platform](https://github.com/milanabraham/social-media-platform)
 
