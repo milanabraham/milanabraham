@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **milanabraham.offical@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- 🎮 Gamer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
