@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **Google cloud professional Developer**
+  
+- 🌱 Mern Stcak Developer
 
 - 🤝 Developed [Social Media Platform](https://github.com/milanabraham/social-media-platform)
 
@@ -15,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/milanabraham](https://github.com/milanabraham)
 
-- 💬 Ask me about **php , java , sql**
+- 💬 Ask me about **php , java , sql, React js, Node js,**
 
 - 📫 How to reach me **milanabraham.offical@gmail.com**
 
