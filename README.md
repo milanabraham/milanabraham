@@ -11,13 +11,17 @@
   
 - 🌱 Mern Stcak Developer
 
+- 🌱 Java Springboot Developer
+
+- 🤝 Developed [AI-Powered Code Review & Automated PR Risk Analysis System](https://github.com/milanabraham/AI-CODE-REVIEW)
+
 - 🤝 Developed [Social Media Platform](https://github.com/milanabraham/social-media-platform)
 
 - 🤝 Developed [Annual Maintenance Contract](https://github.com/milanabraham/AMC-ANNUAL-MAINTENANCE-CONTRACT-.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/milanabraham](https://github.com/milanabraham)
 
-- 💬 Ask me about **php , java , sql, React js, Node js,**
+- 💬 Ask me about **Java, php , java , sql, React js, Node js,**
 
 - 📫 How to reach me **milanabraham.offical@gmail.com**
 
