@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 
-- 🌱 I’m currently learning **Google cloud professional Developer**
+- 🌱 I’m currently learning **AI / ML **
   
 - 🌱 Mern Stcak Developer
 
 - 🌱 Java Springboot Developer
 
+- 🤝 Developed [ SafePath AI – Intelligent Crisis Response & Evacuation System](https://github.com/milanabraham/safepath-ai)
+  
 - 🤝 Developed [AI-Powered Code Review & Automated PR Risk Analysis System](https://github.com/milanabraham/AI-CODE-REVIEW)
 
 - 🤝 Developed [Social Media Platform](https://github.com/milanabraham/social-media-platform)
-
-- 🤝 Developed [Annual Maintenance Contract](https://github.com/milanabraham/AMC-ANNUAL-MAINTENANCE-CONTRACT-.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/milanabraham](https://github.com/milanabraham)
 
