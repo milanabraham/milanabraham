@@ -5,11 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milanabraham&label=Profile%20views&color=0e75b6&style=flat" alt="milanabraham" /> </p>
 
-<br>
-<br>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milanabraham&theme=onedark" alt="milanabraham" /></a> </p>
-
 ## 🚀 About Me
 
 - 🤖 **AI/ML Developer** specializing in intelligent systems & automation
@@ -38,6 +33,9 @@ Full-stack social networking application
 - Real-time messaging & notifications
 - User authentication & authorization
 - Scalable architecture
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milanabraham&theme=onedark" alt="milanabraham" /></a> </p>
+
 
 ## 💻 Tech Stack
 
